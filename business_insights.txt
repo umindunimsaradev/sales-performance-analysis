@@ -1,0 +1,33 @@
+Business Insights – Sales Performance Analysis
+
+1. Overall Performance
+The business generated $2.3M in total sales and $0.29M in profit, resulting in an overall profit margin of 12.47%. With over 5,000 orders, sales volume is strong, but profitability indicates there is room to improve efficiency and margins rather than focusing only on increasing sales.
+
+
+2. Sales Trend
+Sales have grown steadily over the period, showing that the business is expanding over time. There are clear spikes toward the end of each year, which suggests seasonal demand, likely driven by year-end or holiday purchasing behavior.
+
+From a business perspective, this means planning inventory, marketing, and staffing more aggressively during peak periods could further increase revenue without significantly raising costs.
+
+
+3. Regional Performance
+The West region is the strongest performer, followed closely by the East. These regions consistently contribute the majority of sales. In contrast, the Central and South regions generate noticeably lower revenue.
+
+This gap suggests that successful strategies used in the West could be evaluated and potentially applied to weaker regions. It may also indicate differences in customer demand, pricing, or market reach that need further investigation.
+
+
+4. Category Performance
+The Technology category is the main revenue driver for the business, clearly outperforming Furniture and Office Supplies. While this is positive, it also means the business is heavily dependent on one category for growth.
+
+Furniture and Office Supplies show stable but lower performance, which presents an opportunity to improve product mix, pricing, or promotions to balance revenue across categories.
+
+
+5. Product-Level Performance
+Sales are concentrated among a relatively small number of products. While some of these products perform very well in terms of revenue, a few of them generate low or even negative profit, despite strong sales.
+
+This indicates that high sales alone do not guarantee profitability. These products may be affected by high costs, aggressive discounting, or pricing issues and should be reviewed carefully.
+
+6. Profitability Insight
+Overall, profit does not always increase at the same rate as sales. The current margin of 12.47% shows that improving cost control, pricing strategy, or discount management could have a meaningful impact on overall profitability.
+
+Shifting focus from purely revenue-driven decisions to profit-focused analysis would help the business achieve more sustainable growth.

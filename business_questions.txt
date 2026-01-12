@@ -1,0 +1,8 @@
+Business Questions – Sales Performance Analysis
+
+1. How has total sales changed over time?
+2. Which product categories and sub-categories generate the most revenue?
+3. What are the top 10 products by total sales?
+4. Which regions perform best in terms of sales and profit?
+5. Are there seasonal trends or patterns in sales?
+6. Which categories contribute the most to overall profit?
